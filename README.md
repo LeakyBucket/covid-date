@@ -2,6 +2,8 @@
 
 Do you want to know how many Marches there have been this year?  Do you also want to know how far we are through the current March?  Then this is the tool for you.
 
+Beware I am American and this is pretty well focused on when most or at least a chunk of the U.S. went into some form of lockdown (March 2020).
+
 ```
 covid-date on  master is 📦 v0.1.0 via 🦀 v1.43.1 took 4s
 ❯ covid-date
